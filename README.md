@@ -38,10 +38,6 @@ Finowings provides IPO-related information, including GMP, subscription status, 
 
 Always conduct proper research before making investment decisions.
 
-### SEO Keywords
-
-`Live IPO Market Updates`, `IPO GMP`, `IPO Subscription Status`, `Grey Market Premium`, `Upcoming IPOs`, `IPO Listing Date`
-
 ### Disclaimer
 
 This content is for educational and informational purposes only. Grey Market Premium is unofficial and does not guarantee IPO listing performance or investment returns.
